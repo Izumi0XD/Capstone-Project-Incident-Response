@@ -19,8 +19,7 @@
 7. [Results and Findings](#7-results-and-findings)
 8. [Mitigation Strategies](#8-mitigation-strategies)
 9. [Incident Response Simulation](#9-incident-response-simulation)
-10. [Screenshots Reference](#10-screenshots-reference)
-11. [References](#11-references)
+10. [References](#11-references)
 
 ---
 
@@ -489,36 +488,7 @@ submitted credentials on a fake login page.
 
 ---
 
-## 10. Screenshots Reference
-
-| Figure | Filename | Description |
-|--------|----------|-------------|
-| Fig 1 | Screenshot_2026-03-19_151659.png | wget – downloading Gophish |
-| Fig 2 | Screenshot_2026-03-19_151728.png | unzip – extracting the archive |
-| Fig 3 | Screenshot_2026-03-19_152023.png | chmod +x and running Gophish; DB migrations |
-| Fig 4 | Screenshot_2026-03-19_152258.png | Gophish admin dashboard |
-| Fig 5 | Screenshot_2026-03-19_152354.png | MailHog web UI (empty inbox) |
-| Fig 6 | Screenshot_2026-03-19_152658.png | New Sending Profile form |
-| Fig 7 | Screenshot_2026-03-19_152953.png | Sending Profile – lower section |
-| Fig 8 | Screenshot_2026-03-19_153248.png | Sending Profile saved |
-| Fig 9 | Screenshot_2026-03-19_153326.png | Sending Profiles list |
-| Fig 10 | Screenshot_2026-03-19_153524.png | Import Site dialog |
-| Fig 11 | Screenshot_2026-03-19_153541.png | Landing Pages list |
-| Fig 12 | Screenshot_2026-03-19_154354.png | Email Templates list |
-| Fig 13 | Screenshot_2026-03-19_154649.png | Users & Groups – Test Group |
-| Fig 14 | Screenshot_2026-03-19_155616.png | Test email sent confirmation |
-| Fig 15 | Screenshot_2026-03-19_155738.png | New Campaign form |
-| Fig 16 | Screenshot_2026-03-19_155957.png | MailHog – first test email |
-| Fig 17 | Screenshot_2026-03-19_160025.png | Campaign 1 results: 1 sent, 0 opened |
-| Fig 18 | Screenshot_2026-03-19_160049.png | MailHog inbox with both emails |
-| Fig 19 | Screenshot_2026-03-19_160107.png | Email body – phishing content and reset link |
-| Fig 20 | Screenshot_2026-03-19_161509.png | Campaign Scheduled confirmation |
-| Fig 21 | Screenshot_2026-03-19_161800.png | Phishing landing page at /?rid=g3ANPfB |
-| Fig 22 | Screenshot_2026-03-19_162329.png | Campaign 3 results: all 4 events triggered |
-
----
-
-## 11. References
+## 10. References
 
 | Resource | URL |
 |----------|-----|
